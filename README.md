@@ -1,4 +1,4 @@
-# lavarel-phpunit-rce-masscanner CVE-2017-9841
+# lavarel phpunit rce masscanner CVE-2017-9841
 Masscanner for Laravel phpunit RCE **CVE-2017-9841**
 
 ## deps
