@@ -1,2 +1,2 @@
-# lavarel-phpunit-rce-masscaner
+# lavarel-phpunit-rce-masscanner
 Masscanner for Laravel phpunit  RCE
