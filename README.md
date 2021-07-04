@@ -22,7 +22,6 @@ optional arguments:
   -h, --help                   show this help message and exit
   --file <hostnames.txt>       Input your target host lists
   --range <ip-start>,<ip-end>  Set range IP Eg.: 192.168.15.1,192.168.15.100
-  --single SINGLE              Single hostname Eg.: mytarget.com
 
 ```
 
