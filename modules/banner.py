@@ -2,7 +2,7 @@ class Banner():
     def b():
         return (f"""
 
-        By: r00td3v / https://rodnt.github.io / TW: @rodntt
+        By: inc0gbyt3 / https://inc0gbyt3.github.io / TW: @inc0gbyt3
 
 
  ██▓    ▄▄▄       ██▀███   ▄▄▄    ██▒   █▓▓█████  ██▓        ██▓███   ██░ ██  ██▓███   █    ██  ███▄    █  ██▓▄▄▄█████▓    ██▀███   ▄████▄  ▓█████ 
